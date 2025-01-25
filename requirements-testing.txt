@@ -1,4 +1,6 @@
+dependabot/pip/pip-2baf374bcd
 wheel==0.38.0
+develop
 python-coveralls==2.9.3
 coverage==6.2; python_version < '3.11'
 coverage==7.4.4; python_version >= '3.11'
