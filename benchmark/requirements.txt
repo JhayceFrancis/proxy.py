@@ -6,5 +6,7 @@ aiohttp==3.10.11
 starlette==0.40.0
 tornado==6.4.2
 uvicorn==0.16.0
+snyk-fix-0e2355409ae989dc2d2be5e5565cdb1b
 anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+develop
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
