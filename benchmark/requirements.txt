@@ -1,4 +1,7 @@
+snyk-fix-e6534b0897692429472fde0b5323aaab
+aiohttp==3.10.2
 aiohttp==3.10.11
+develop
 # Blacksheep depends upon essentials_openapi which is pinned to pyyaml==5.4.1
 # and pyyaml>5.3.1 is broken for cython 3
 # See https://github.com/yaml/pyyaml/issues/724#issuecomment-1638587228
